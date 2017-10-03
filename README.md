@@ -6,4 +6,4 @@ Only tested with python 3.6.2(https://www.python.org/downloads/)
 
 //
 
-note: requires the icon files the start(sorry this will removed from the code later)
+note: requires the icon files to start(sorry this will removed from the code later)
