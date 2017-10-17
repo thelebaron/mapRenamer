@@ -4,7 +4,7 @@
 
 Requirements
 ```bash
-python 3.6.2(https://www.python.org/downloads/)
+python 3.6.2([https://www.python.org/downloads/])
 ```
 
 udim to uv and back renamer
